@@ -10,9 +10,9 @@ class CafeBase:
 
         # Checks to see if a json file with the data for the week exists
         # TODO: Check if the file is up to date
-        if os.path.isfile('../Throwaway/CafeAPI/data.json'):
+        if os.path.isfile('../CafeAPI/data.json'):
             # Reads the data from the file into a variable
-            with open('../Throwaway/CafeAPI/data.json', 'r') as f:
+            with open('../CafeAPI/data.json', 'r') as f:
                 self.base = json.load(f)
             print("Database: Retrieved data from file")
         else:

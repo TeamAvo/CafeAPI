@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d390b08c-345a-469e-89ed-20d8aa155d12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CafeBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/CafeBase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -47,14 +49,14 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="100" key="SettingsEditor" timestamp="1588253088937">
+    <state x="229" y="100" key="SettingsEditor" timestamp="1590187764327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="229" y="100" key="SettingsEditor/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1588253088937" />
-    <state x="1972" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1588255513201">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="229" y="100" key="SettingsEditor/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590187764327" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1590187723469">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1588252064089" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590187723469" />
     <state x="1972" y="350" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1588255513201" />
   </component>
 </project>
