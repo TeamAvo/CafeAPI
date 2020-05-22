@@ -11,6 +11,7 @@ selenium = "*"
 markdown = "*"
 flask-restful = "*"
 webargs = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
