@@ -23,7 +23,7 @@ def get_db():
 # An index page with the readme for the API
 @app.route("/cafeapi")
 def index():
-    with open(os.path.dirname(app.root_path) + '/CafeBackend/README.md') as file:
+    with open('/README.md') as file:
         content = file.read()
         return markdown.markdown(content)
 
