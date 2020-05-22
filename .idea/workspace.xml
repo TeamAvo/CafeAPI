@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d390b08c-345a-469e-89ed-20d8aa155d12" name="Default Changelist" comment="" />
+    <list default="true" id="d390b08c-345a-469e-89ed-20d8aa155d12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +52,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590190366155">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="453" y="271" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590190366155" />
     <state x="229" y="100" key="SettingsEditor" timestamp="1590187764327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
