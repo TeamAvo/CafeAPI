@@ -28,11 +28,9 @@ def index():
         return markdown.markdown(content)
 
 
-# @app.route("/cafeapi/food")
-# def food_page():
-#     with open('FOOD.md') as file:
-#         content = file.read()
-#         return markdown.markdown(content)
+@app.route("/cafeapi/food")
+def food_page():
+    return jsonify(get_db().day_menu(3))
 
 
 # Parameters
