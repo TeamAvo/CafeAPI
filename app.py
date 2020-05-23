@@ -28,6 +28,13 @@ def index():
         return markdown.markdown(content)
 
 
+@app.route("/cafeapi/food")
+def index():
+    with open('FOOD.md') as file:
+        content = file.read()
+        return markdown.markdown(content)
+
+
 # Parameters
 args_list = {
     'day': fields.Int(
