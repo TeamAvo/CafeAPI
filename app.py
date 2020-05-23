@@ -49,7 +49,7 @@ class Food(Resource):
     @use_kwargs(args_list, location="query")
     def get(self, day):
         print(f'Incoming Request: day={day}')
-        return get_db().day_menu(day)
+        return jsonify(get_db().day_menu(day)), 200
 
 
 # Handle the errors
