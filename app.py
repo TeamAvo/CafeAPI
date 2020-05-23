@@ -30,7 +30,7 @@ def index():
 
 @app.route("/cafeapi/food")
 def food_page():
-    return jsonify(get_db().day_menu(3))
+    return get_db().day_menu(3)
 
 
 # Parameters
