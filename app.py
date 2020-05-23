@@ -28,11 +28,11 @@ def index():
         return markdown.markdown(content)
 
 
-@app.route("/cafeapi/food")
-def food_page():
-    with open('FOOD.md') as file:
-        content = file.read()
-        return markdown.markdown(content)
+# @app.route("/cafeapi/food")
+# def food_page():
+#     with open('FOOD.md') as file:
+#         content = file.read()
+#         return markdown.markdown(content)
 
 
 # Parameters
