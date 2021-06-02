@@ -1,16 +1,20 @@
-aniso8601==8.0.0
-click==7.1.2
-Flask==1.1.2
-Flask-RESTful==0.3.8
+-i https://pypi.org/simple/
+aniso8601==9.0.1
+click==8.0.1
+flask-restful==0.3.8
+flask==1.1.2
 gunicorn==20.0.4
-itsdangerous==1.1.0
-Jinja2==2.11.2
-Markdown==3.2.2
-MarkupSafe==1.1.1
-marshmallow==3.6.0
-pytz==2020.1
+importlib-metadata==4.4.0 ; python_version < '3.8'
+itsdangerous==2.0.1
+jinja2==3.0.1
+markdown==3.2.2
+markupsafe==2.0.1
+marshmallow==3.12.1
+pytz==2021.1
 selenium==3.141.0
-six==1.15.0
-urllib3==1.25.9
+six==1.16.0
+typing-extensions==3.10.0.0 ; python_version < '3.8'
+urllib3==1.26.5
 webargs==6.1.0
-Werkzeug==1.0.1
+werkzeug==2.0.1
+zipp==3.4.1
